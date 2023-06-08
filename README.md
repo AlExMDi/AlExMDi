@@ -12,13 +12,14 @@
 -->
 
 <p align="center">
-<img src="https://github-readme-stats-omega-wheat.vercel.app/api?username=alexmdi&show_icons=true&theme=dracula&hide_border=true&locale=es&count_private=true&border_radius=5" alt="tomas2p stats" />
+<img src="https://github-readme-stats-omega-wheat.vercel.app/api?username=alexmdi&show_icons=true&theme=dracula&hide_border=true&locale=es&count_private=true&border_radius=5" alt="alexmdi stats" />
 
+  <!--
 <img alt="Coding" width="130" src="https://64.media.tumblr.com/8295f699635629cb7c96329aeeb79a69/tumblr_o109au2Tod1s335jfo1_r3_540.gif"> 
-
-<img alt="Coding" width="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fchill&psig=AOvVaw19E19aXfUwSuAAv_0-PIeg&ust=1686352079606000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNigk5fltP8CFQAAAAAdAAAAABAt)"> 
+-->
+<img alt="Coding" height="194" width="150" src="https://64.media.tumblr.com/2c33f4e6e264cad6fe5b2695cb30472d/25d9c76169467b66-d6/s1280x1920/035495a3a3c126a54c7bc1117426a512748c9ab2.gifv"> 
   
-<img src="https://github-readme-stats-omega-wheat.vercel.app/api/top-langs/?username=alexmdi&layout=detailed&theme=dracula&hide_border=true&locale=es&count_private=true&border_radius=5" alt="tomas2p languages" />
+<img src="https://github-readme-stats-omega-wheat.vercel.app/api/top-langs/?username=alexmdi&layout=detailed&theme=dracula&hide_border=true&locale=es&count_private=true&border_radius=5" alt="alexmdi languages" />
 </p>
 
 
