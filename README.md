@@ -9,17 +9,16 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmdi&title_color=FAC00&text_color=949CA5&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="alexmdi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexmdi&title_color=FAC00&text_color=949CA5&bg_color=00000000&show_icons=true&locale=en" alt="alexmdi" /></p>
-
 -->
 
 <p align="center">
-<img src="https://github-readme-stats-omega-wheat.vercel.app/api?username=tomas2p&show_icons=true&theme=codeSTACKr&hide_border=true&locale=es&count_private=true&border_radius=5" alt="tomas2p stats" />
+<img src="https://github-readme-stats-omega-wheat.vercel.app/api?username=alexmdi&show_icons=true&theme=dracula&hide_border=true&locale=es&count_private=true&border_radius=5" alt="tomas2p stats" />
 
 <img alt="Coding" width="130" src="https://64.media.tumblr.com/8295f699635629cb7c96329aeeb79a69/tumblr_o109au2Tod1s335jfo1_r3_540.gif"> 
 
-<img alt="Coding" width="350" src="https://media.tenor.com/EXk99kAF9hUAAAAd/anime-pixel.gif"> 
+<img alt="Coding" width="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fchill&psig=AOvVaw19E19aXfUwSuAAv_0-PIeg&ust=1686352079606000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNigk5fltP8CFQAAAAAdAAAAABAt)"> 
   
-<img src="https://github-readme-stats-omega-wheat.vercel.app/api/top-langs/?username=tomas2p&layout=detailed&theme=codeSTACKr&hide_border=true&locale=es&count_private=true&border_radius=5" alt="tomas2p languages" />
+<img src="https://github-readme-stats-omega-wheat.vercel.app/api/top-langs/?username=alexmdi&layout=detailed&theme=dracula&hide_border=true&locale=es&count_private=true&border_radius=5" alt="tomas2p languages" />
 </p>
 
 
